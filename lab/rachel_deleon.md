@@ -9,5 +9,6 @@ start_date: 3/1/2018
 website:
 address: 600 16th Street, MC 2280</br>Genentech Hall, Room </br>San Francisco, CA 94158-</br>
 info: Understanding and defining the transcriptional network governing airway motile ciliogenesis.
-image: ../j-thumb.jpg
+image: ../rachel_deleon2.jpg
+permalink: /lab/rachel_deleon/
 ---
