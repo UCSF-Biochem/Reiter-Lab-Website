@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page5
 title: Jeremey Reiter
 permalink: /publications/
 ---
@@ -22,7 +22,7 @@ permalink: /publications/
 <!-- add lab website link-->
 
 
-<h2>Anatomy Department</h2>
+<h2>Biochemistry Department</h2>
   <ul>
       <li id=""><a href="http://biochemistry.ucsf.edu">Biochemistry Department Website</a></li>
   </ul>

@@ -1,7 +1,7 @@
 ---
 layout: bio
 categories: lab
-title: E Yu
+title: E Yu B.S.
 position: SRA II
 email_prefix: E.Yu
 email_suffix: ucsf, edu

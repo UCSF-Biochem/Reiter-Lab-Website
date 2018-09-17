@@ -8,7 +8,7 @@
 # Site settings
 title: ReiterLab @ UCSF
 email: your-email@domain.com
-description:  lab stuff here
+description:  Website for the UCSF Lab of Jeremy Reiter
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site#twitter_username: jekyllrb
 #github_username:  jekyll

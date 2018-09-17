@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: page4
 title: research
 permalink: /research/
 ---
@@ -18,7 +18,7 @@ Our work suggests that cilia also function as critical mediators of intercellula
  * How do cells regulate whether they form a cilium?
  * How do differences in cilia structure and composition affect function among different types of cilia?
 
- We  are using cultured mouse tracheal epithelial cells mTECs as one way to address this question. Check out a video here.
-    Sperm flagella are highly modified cilia. How are they built and what role have they played in human evolution?
+We  are using cultured mouse tracheal epithelial cells mTECs as one way to address this question. [Check out a video here.](/img/mTEC_movie.gif)
+<br>Sperm flagella are highly modified cilia. How are they built and what role have they played in human evolution?
 
 This work has begun to suggest that the primary cilium is an organelle dedicated to signal transduction, somewhat analogous to a cellular antenna. We hope that our current endeavors will reveal how this antenna interprets the signals required for normal development and homeostasis, and how malfunctions in the antenna contribute to cancer and other important human diseases.

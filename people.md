@@ -79,7 +79,15 @@ permalink: /people/
     </div>
   </div>
   </div>
-
+<!--row five-->
+  <div class="w3-container w3-content w3-center w3-padding-12" style="max-width:800px">
+  <div class="w3-row w3-padding-32">
+    <div class="w3-third">
+    <p>Ying Yang</p>
+   <a href="{{ site.baseurl }}/lab/ying_yang"><img src="{{ site.baseurl }}/img/ying_yang.jpg" class="w3-round w3-margin-bottom" alt="" style="width:60%"></a>
+   </div>
+  </div>
+  </div>
 <!--new list here-->
 
 <!--former lab members here -->
