@@ -2,7 +2,7 @@
 layout: bio
 categories: lab
 title: Gabriela Canales PhD
-position: Postdoctoral Scholar
+position: Graduate Student
 email_prefix: Gabriela Canales
 email_suffix: ucsf, edu
 start_date:

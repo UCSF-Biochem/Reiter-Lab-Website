@@ -3,7 +3,7 @@ layout: bio
 categories: lab
 title: Jeremy Reiter MD, PhD
 position: Principal Investigator
-email_prefix: Jermey.Reiter
+email_prefix: Jeremey.Reiter
 email_suffix: ucsf, edu
 start_date:
 website:

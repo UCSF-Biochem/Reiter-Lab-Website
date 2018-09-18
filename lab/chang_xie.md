@@ -2,7 +2,7 @@
 layout: bio
 categories: lab
 title: Chang Xie
-position: DSCB Graduate Student
+position: Postdoctoral Scholar
 email_prefix: chang.xie
 email_suffix: ucsf, edu
 start_date: Jan 2017

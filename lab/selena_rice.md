@@ -3,7 +3,7 @@ layout: bio
 categories: lab
 title: Selena Rice PhD
 position: Associate Specialist IV
-email_prefix: andrew.norman
+email_prefix: selena.rice
 email_suffix: ucsf, edu
 start_date: Sept 2017
 website:
