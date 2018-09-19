@@ -2,7 +2,7 @@
 layout: bio
 categories: lab
 title: Gabriela Canales PhD
-position: Graduate Student
+position: Tetrad Graduate Student
 email_prefix: Gabriela Canales
 email_suffix: ucsf, edu
 start_date:

@@ -2,7 +2,7 @@
 layout: bio
 categories: lab
 title: Benedict Tsai PhD
-position: DSCB Graduate Student
+position: Technician
 email_prefix: benedict.tsai
 email_suffix: ucsf, edu
 start_date:
