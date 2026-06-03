@@ -62,7 +62,7 @@ Jeremy Reiter is the chairperson of the Department of Biochemistry and Biophysic
 // add_profiles_user_content('FNO', 'Jeffrey.Bluestone@ucsf.edu');
 
       function add_profiles_user_content (identifier_type, identifier) {
-          $.getJSON('http://api.profiles.ucsf.edu/json/v2/?source=JSON_API_v2_example_script_change_this_in_your_own_app&' + identifier_type + '=' + identifier + '&callback=?',
+          $.getJSON('https://api.profiles.ucsf.edu/json/v2/?source=JSON_API_v2_example_script_change_this_in_your_own_app&' + identifier_type + '=' + identifier + '&callback=?',
       	      function(response) {
       		  if (response) {
       		      if (response.error) { // if UCSF Profiles reports an error, can do something with that here
